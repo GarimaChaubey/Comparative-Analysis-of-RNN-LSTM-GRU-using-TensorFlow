@@ -7,13 +7,6 @@ The models are implemented using **TensorFlow/Keras**, and compared on the basis
 
 ---
 
-## 📁 Files Included
-
-- `RNN_Assignment.ipynb` — Full implementation of RNN, LSTM, and GRU models
-- `README.md` — Project documentation and insights
-
----
-
 ## 🎯 Objective
 
 To understand and compare the performance of different types of recurrent neural networks:
