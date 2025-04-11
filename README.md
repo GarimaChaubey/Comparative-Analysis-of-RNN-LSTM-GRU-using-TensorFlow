@@ -36,6 +36,10 @@ Below are the training and validation curves:
 
 The graph shows that GRU and LSTM consistently outperform the basic RNN in terms of validation accuracy. While RNN begins with lower accuracy and fluctuates more, LSTM and GRU maintain higher and more stable accuracy across epochs. This demonstrates the superiority of LSTM and GRU in capturing long-term dependencies in sequential data such as text.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45a1692d-7705-48c8-baf0-af399e9dfa09" width="400"/>
+</p>
+
 After training and evaluating RNN, LSTM, and GRU models on a sequence prediction task, we observed the following:
 
 **Accuracy:**
@@ -64,6 +68,3 @@ After training and evaluating RNN, LSTM, and GRU models on a sequence prediction
 
 - Both LSTM and GRU remained stable and retained important context across long inputs.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45a1692d-7705-48c8-baf0-af399e9dfa09" width="400"/>
-</p>
