@@ -28,7 +28,9 @@ The models were trained on the same dataset and compared based on:
 ### Accuracy and Loss Graphs
 
 Below are the training and validation curves:
-![image](https://github.com/user-attachments/assets/9f258f56-c2b3-45db-b7da-e31708bdce13)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f258f56-c2b3-45db-b7da-e31708bdce13" width="200"/>
+</p>
 
 # Observation
 
@@ -61,5 +63,7 @@ After training and evaluating RNN, LSTM, and GRU models on a sequence prediction
 - RNN performance degraded on longer sequences.
 
 - Both LSTM and GRU remained stable and retained important context across long inputs.
- 
-![image](https://github.com/user-attachments/assets/45a1692d-7705-48c8-baf0-af399e9dfa09)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45a1692d-7705-48c8-baf0-af399e9dfa09" width="200"/>
+</p>
