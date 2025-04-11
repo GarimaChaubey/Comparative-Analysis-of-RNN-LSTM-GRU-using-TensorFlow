@@ -6,6 +6,11 @@ This project presents a comparative analysis of three types of Recurrent Neural 
 
 Recurrent Neural Networks (RNNs) are a class of neural networks effective for sequential data, especially in Natural Language Processing and Time Series Forecasting. While traditional RNNs suffer from vanishing gradient issues, LSTM and GRU address this with their gating mechanisms.
 
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/48b5c58d-f560-49cf-ad2c-6f0d6ff2a874)
+" width="400"/>
+</p>
+
 This notebook explores and compares their behavior on a sample dataset, evaluating model accuracy and loss over time.
 
 ## Models Compared
@@ -78,3 +83,7 @@ After training and evaluating RNN, LSTM, and GRU models on a sequence prediction
 
 - Both LSTM and GRU remained stable and retained important context across long inputs.
 
+📘 **View the Notebook**: [RNN LSTM GRU.ipynb](https://github.com/GarimaChaubey/Comparative-Analysis-of-RNN-LSTM-GRU-using-TensorFlow/blob/main/RNN_Assignment.ipynb)
+
+## Refrences
+- https://www.mdpi.com/2079-9292/14/4/707#:~:text=The%20proposed%20LSTM%20model%20demonstrated,with%20an%20RMSE%20of%2011.79.
