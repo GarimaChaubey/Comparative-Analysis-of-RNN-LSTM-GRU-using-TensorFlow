@@ -28,9 +28,19 @@ The models were trained on the same dataset and compared based on:
 ### Accuracy and Loss Graphs
 
 Below are the training and validation curves:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f258f56-c2b3-45db-b7da-e31708bdce13" width="400"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9f258f56-c2b3-45db-b7da-e31708bdce13" width="300"/><br/>
+      <sub><b>Before (Early Epoch)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/063af3b5-6ddf-4440-b645-f2885581db6c" width="300"/><br/>
+      <sub><b>After (Later Epoch)</b></sub>
+    </td>
+  </tr>
+</table>
 
 # Observation
 
