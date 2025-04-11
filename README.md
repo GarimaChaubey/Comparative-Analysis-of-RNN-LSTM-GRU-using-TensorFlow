@@ -1,4 +1,5 @@
 # Comparative Analysis of RNN, LSTM, and GRU
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg?logo=tensorflow)](https://www.tensorflow.org/)
 
 This project presents a comparative analysis of three types of Recurrent Neural Networks (RNNs): **Vanilla RNN**, **Long Short-Term Memory (LSTM)**, and **Gated Recurrent Unit (GRU)**. The analysis is based on a deep learning experiment implemented in Python using TensorFlow and Keras, focusing on performance, accuracy, and training behavior.
 
